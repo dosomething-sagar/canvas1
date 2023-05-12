@@ -1,4 +1,4 @@
-# first canvas ghraphic 	:cd:
+# First Canvas Ghraphic 	:cd:
 **Orbital Trails**
 Beautiful swirling rainbow particles! :point_down:
 
